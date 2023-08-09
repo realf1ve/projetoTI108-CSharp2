@@ -1,0 +1,8 @@
+C:\Users\kaio.bsilva2\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\Loja\bin\Debug\Loja.exe.config
+C:\Users\kaio.bsilva2\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\Loja\bin\Debug\Loja.exe
+C:\Users\kaio.bsilva2\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\Loja\bin\Debug\Loja.pdb
+C:\Users\kaio.bsilva2\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\Loja\obj\Debug\Loja.Properties.Resources.resources
+C:\Users\kaio.bsilva2\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\Loja\obj\Debug\Loja.csproj.GenerateResource.cache
+C:\Users\kaio.bsilva2\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\Loja\obj\Debug\Loja.csproj.CoreCompileInputs.cache
+C:\Users\kaio.bsilva2\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\Loja\obj\Debug\Loja.exe
+C:\Users\kaio.bsilva2\Documents\Visual Studio 2019\ProjetoTI108\EmpresaABC\Loja\obj\Debug\Loja.pdb
